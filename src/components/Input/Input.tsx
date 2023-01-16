@@ -1,5 +1,5 @@
 import React from "react"
 
-const Input: React.FC = () => <input className="input" type="text" />
+const TestInput: React.FC = () => <input className="input" type="text" />
 
-export default Input
+export default TestInput
