@@ -21,6 +21,7 @@
   "scripts": {
     "start": "start-storybook -p 6006",
     "prepare": "npm run build",
+    "commit": "git-cz",
     "build": "rollup -c --bundleConfigAsCjs",
     "build-storybook": "build-storybook",
     "semantic-release": "semantic-release --branches main"
