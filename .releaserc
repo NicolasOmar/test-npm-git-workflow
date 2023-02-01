@@ -1,0 +1,10 @@
+{
+  branches: [
+    { name: "master" },
+    { name: "0.1.x", channel: "minor" },
+    { name: "0.2.x", channel: "minor" },
+    { name: "0.3.x", channel: "minor" },
+    { name: "1.x", channel: "major" },
+    { name: "bugfix", channel: "path" }
+  ]
+}
