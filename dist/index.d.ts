@@ -5,6 +5,6 @@ interface ButtonProps {
 }
 declare const Button: React.FC<ButtonProps>;
 
-declare const TestInput: React.FC;
+declare const Input: React.FC;
 
-export { Button, TestInput };
+export { Button, Input };
