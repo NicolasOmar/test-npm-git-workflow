@@ -2840,5 +2840,7 @@ var React = /*@__PURE__*/getDefaultExportFromCjs(reactExports);
 
 const Button = ({ text = '' }) => React.createElement("button", { className: "button" }, text);
 
-export { Button };
+const Input = () => React.createElement("input", { className: "input", type: "text" });
+
+export { Button, Input };
 //# sourceMappingURL=index.js.map
