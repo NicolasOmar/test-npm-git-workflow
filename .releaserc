@@ -6,5 +6,12 @@
     { name: "0.3.0", channel: "minor" },
     { name: "1.0.0", channel: "major" },
     { name: "bugfix", channel: "path" }
+  ],
+  plugins: [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/changelog",
+    "@semantic-release/git",
+    "@semantic-release/github",
+    "@semantic-release/npm"
   ]
 }
