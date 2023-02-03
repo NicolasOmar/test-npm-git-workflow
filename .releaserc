@@ -5,6 +5,7 @@
     { "name": "0.2.0", "channel": "minor" },
     { "name": "0.3.0", "channel": "minor" },
     { "name": "1.0.0", "channel": "major" },
+    { "name": "2.6.0", "channel": "next" },
     { "name": "bugfix", "channel": "path" }
   ],
   "plugins": [
