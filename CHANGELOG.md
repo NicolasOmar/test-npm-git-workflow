@@ -1,3 +1,10 @@
+## [2.4.2](https://github.com/NicolasOmar/test-npm-git-workflow/compare/v2.4.1...v2.4.2) (2023-02-03)
+
+
+### Bug Fixes
+
+* adding a test version change ([b8f80b8](https://github.com/NicolasOmar/test-npm-git-workflow/commit/b8f80b86417807ed3339c8f7c19162f801c117c3))
+
 ## [2.4.1](https://github.com/NicolasOmar/test-npm-git-workflow/compare/v2.4.0...v2.4.1) (2023-02-03)
 
 
