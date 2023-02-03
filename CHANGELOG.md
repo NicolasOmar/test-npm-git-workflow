@@ -1,3 +1,12 @@
+## [2.4.1](https://github.com/NicolasOmar/test-npm-git-workflow/compare/v2.4.0...v2.4.1) (2023-02-03)
+
+
+### Bug Fixes
+
+* **.releaserc:** One more try configurating the release ([c278171](https://github.com/NicolasOmar/test-npm-git-workflow/commit/c27817146a60d22801080a18704ff55c8280fd1e))
+* changing semantic flow to achieve build script ([d9bba26](https://github.com/NicolasOmar/test-npm-git-workflow/commit/d9bba261b188ba49c7fa72079534d6c86df7173c))
+* Changing version change script for a build-in ([ec2f091](https://github.com/NicolasOmar/test-npm-git-workflow/commit/ec2f09155cd6a51938d18d9dea8d3533f9cd966f))
+
 # [2.4.0](https://github.com/NicolasOmar/test-npm-git-workflow/compare/v2.3.0...v2.4.0) (2023-02-03)
 
 
