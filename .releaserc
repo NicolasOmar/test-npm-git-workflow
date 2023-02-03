@@ -11,14 +11,8 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
-    [
-      "@semantic-release/exec",
-      {
-        "prepareCmd": "set-version ${nextRelease.version}"
-      }
-    ],
-    "@semantic-release/git",
     "@semantic-release/github",
-    "@semantic-release/npm"
+    "@semantic-release/npm",
+    "@semantic-release/git"
   ]
 }
