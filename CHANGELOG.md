@@ -1,3 +1,22 @@
+# [3.0.0](https://github.com/NicolasOmar/test-npm-git-workflow/compare/v2.4.2...v3.0.0) (2023-02-03)
+
+
+### Bug Fixes
+
+* uncommenting index.ts one more time ([3ec5d2e](https://github.com/NicolasOmar/test-npm-git-workflow/commit/3ec5d2e1c31282cbde8c05717359512b7a9ea8e0))
+
+
+### Features
+
+* changing input type ([c20dbfb](https://github.com/NicolasOmar/test-npm-git-workflow/commit/c20dbfb9e8d698de6ba63599e9622fdeea605f67))
+* Merging v3.0.0 to main ([7db6c4d](https://github.com/NicolasOmar/test-npm-git-workflow/commit/7db6c4d54ad242260aea27500140fc302203682f))
+* simplify branches config un semantic ([c3b4636](https://github.com/NicolasOmar/test-npm-git-workflow/commit/c3b4636952def61f3b7c92659f0f226f194862c1))
+
+
+### BREAKING CHANGES
+
+* Changing semantic branches config
+
 ## [2.4.2](https://github.com/NicolasOmar/test-npm-git-workflow/compare/v2.4.1...v2.4.2) (2023-02-03)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@nicolasomar/npm-github-workflow-test",
-  "version": "2.4.2",
+  "version": "3.0.0",
   "description": "A test to use npm, github and semantic release",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
